@@ -1,6 +1,6 @@
 # Compra-de-Pizzas
 
-O projeto compra de pizzas foi produzido durante aula na B7 Web com o professor Bonieky. Foi utilizado Html5, Css3 e Java Script.
+O projeto compra de pizzas foi desenvolvido durante aula na B7 Web com o professor Bonieky. Foi utilizado para o desenvolvimento do projeto Html5, Css3 e Java Script.
 
 ![Captura de Tela (60)](https://user-images.githubusercontent.com/108766424/233855988-c73820f4-e06c-4fcc-b205-c2f690ca225b.png)
 
